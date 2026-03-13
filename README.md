@@ -156,7 +156,7 @@ Check the LICENSE file for terms 📄
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=🔥+IVAS+SMS+API+LIVE+BY+ARSLANMD+OFFICIAL;💥+Always+Active+%26+Powerful+⚡;🚀+Thank+You+for+Visiting+💚" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FF00&center=true&vCenter=true&width=600&lines=🔥+IVAS+SMS+API+LIVE+BY+Daddy+Ji;💥+Always+Active+%26+Powerful+⚡;🚀+Thank+You+for+Visiting+💚" />
 </p><p align="center">
   <img src="https://i.ibb.co/z5WkGcz/arslanmd-footer.gif" width="80%"/>
 </p>
