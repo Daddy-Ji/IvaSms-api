@@ -1,4 +1,4 @@
-<!-- 🌟 ULTRA PRO MAX LIVE README by ArslanMD Official -->
+<!-- 🌟 ULTRA PRO MAX LIVE README by @Daddy-Ji -->
 <p align="center">
   <img src="https://i.ibb.co/Yf5RnVJh/IVAS-ARSLANMD-BANNER.gif" alt="IVAS SMS API LIVE" width="100%"/>
 </p>
@@ -7,8 +7,8 @@
 
 <p align="center">
   <b>Developed & Maintained by</b>  
-  <a href="https://github.com/Arslan-MD" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF0000&center=true&vCenter=true&width=500&lines=👑+ArslanMD+Official+🔥;🚀+The+Mind+Behind+IVAS+API+System;🌐+Always+Up+and+Running+⚡" />
+  <a href="https://github.com/Daddy-Ji target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF0000&center=true&vCenter=true&width=500&lines=👑+Daddy+🔥;🚀+The+Mind+Behind+IVAS+API+System;🌐+Always+Up+and+Running+⚡" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ python app.py
 
 ## Important Notice ⚠️
 
-- **Do not re-upload this code to GitHub**! If you must share or use it elsewhere, please provide proper credit to the original author, [@ArslanMD Official](https://github.com/Arslan-MD). 🚫
+- **Do not re-upload this code to GitHub**! If you must share or use it elsewhere, please provide proper credit to the original author, [@Daddy-Ji](https://github.com/Daddy-Ji). 🚫
 - **Forking Recommended**: Instead of re-uploading, fork this repository to contribute or use it for your projects. This helps maintain the integrity of the original work. 🙌
 
 
@@ -121,7 +121,7 @@ python app.py
 ⚠️ Important Notice <img src="https://img.shields.io/badge/LIVE-🔥-red?style=for-the-badge" />
 
 🚫 Do not re-upload this repository to GitHub!
-If you want to use it, please fork it and give credit to @ArslanMD Official.
+If you want to use it, please fork it and give credit to @Daddy-Ji.
 
 > 🧠 Respect the creator. Support the original work. 💪
 
